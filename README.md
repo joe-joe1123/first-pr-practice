@@ -4,7 +4,7 @@ A tiny repo for practicing the GitHub pull request workflow: branch, commit, pus
 
 ## What this is
 
-This repo exists so you can experiance the full PR lifecycle without touching real production code.
+This repo exists so you can experience the full PR lifecycle without touching real production code.
 
 ## Usage
 
